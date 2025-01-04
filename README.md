@@ -1,0 +1,2 @@
+# PHP Recursive Array Processing Bug
+This repository demonstrates a bug in a PHP function designed to recursively process nested arrays. The function aims to handle various data types within the arrays, but it has unexpected behavior with certain input structures.  The bug is caused by a lack of comprehensive handling of different data types within the recursive function. The solution involves adding additional checks and handling to make the function more robust.
